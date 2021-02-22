@@ -1,7 +1,7 @@
 {
-  "name": "storj",
+  "name": "czarcoin.js",
   "version": "0.0.0",
-  "description": "Storj.io browser library",
+  "description": "czarcoin.org browser library",
   "main": "./lib/index.js",
   "browser": "./lib/browser.js",
   "directories": {},
